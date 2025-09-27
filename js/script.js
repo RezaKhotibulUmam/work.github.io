@@ -88,7 +88,7 @@ ScrollReveal().reveal('.z', '.navbar-extra', { origin: 'right' });
 
 // ============================================= typed js ===============================================*//
 const typed = new Typed('.multiple-text', {
-  strings: ['Fresh Graduate.'],
+  strings: ['Abcd Efghi.'],
   typeSpeed: 70,
   backSpeed: 70,
   backDelay: 1000,
@@ -200,5 +200,6 @@ window.addEventListener('online', function () {
         }
     });
 });
+
 
 
